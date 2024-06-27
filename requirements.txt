@@ -2,3 +2,5 @@ numpy
 matplotlib
 kivy
 torch
+Testgit
+Testgit2
